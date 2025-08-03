@@ -1,0 +1,4 @@
+SQLALCHEMY_DATABASE_URI = "postgresql://movieuser:password@localhost/moviedb"
+SECRET_KEY = "your-very-secret-key"
+TMDB_API_KEY = "a1c4094bb5aa33996f09b4a0f3e68da1"
+TMDB_ACCESS_TOKEN = "eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJhMWM0MDk0YmI1YWEzMzk5NmYwOWI0YTBmM2U2OGRhMSIsIm5iZiI6MTc0NDA3NTA4Ny4wODQsInN1YiI6IjY3ZjQ3OTRmZWRkZWMyOGIwM2FkYzFmMiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.MHkby_LfdEjaharhVgk9qj9de7_2zXENVOgg3HlUmFo"
